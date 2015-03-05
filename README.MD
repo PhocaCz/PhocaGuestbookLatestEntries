@@ -1,0 +1,1 @@
+Phoca Guestbook Latest Entries is Joomla! CMS extension. Module displaying latest entries.
